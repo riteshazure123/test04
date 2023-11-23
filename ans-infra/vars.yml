@@ -1,7 +1,7 @@
 ---
 vcenter_hostname: 172.17.251.172
 username: administrator@vsphere.local
-password: s#rTdec@2021#
+password: xxxxxxxxxxxxxxx
 folder: testansible
 datastore: NTNX-MHP-Datastore
 vmtemplate: Windows2019-LnA-Template
